@@ -1,0 +1,23 @@
+body{
+  background-image:url("Background.png");
+  background-size:100%;
+  background-repeat:no-repeat;
+}
+
+.navbar{
+  height:50px;
+}
+
+.menu{
+  float:right;
+}
+.menu li{
+    display:inline;
+  }
+
+a{
+  margin-right:30px;
+}
+
+
+
